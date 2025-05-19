@@ -17,8 +17,7 @@ Este projeto foi desenvolvido como atividade da disciplina de Desenvolvimento We
 ## 🚀 Instruções de Instalação
 
 ```bash
-git clone [django-avancado-i
-](https://github.com/matheuslima25/django-avancado-i)
+git clone https://github.com/matheuslima25/django-avancado-i
 cd gestao_documentos
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
